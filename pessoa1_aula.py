@@ -1,9 +1,4 @@
-"""            Comentários de várias linhas.
-
-  CEUB  -  FATECS  -  BCC  -  ADS  -  Programação  -  Prof. Barbosa
-ctlr<d>, duplica linha. ctrl<y>, apaga linha. ctrl</>, comenta linha.
-
-- Com base nos conceitos de Programação Orientada a Objetos (POO),
+""" Com base nos conceitos de Programação Orientada a Objetos (POO),
 implemente a entidade pessoa com estas características (atributos):
 nome,
 peso,
