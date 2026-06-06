@@ -14,7 +14,7 @@ if __name__ == '__main__':                  # Atalho: mai <tab>
     print("Ano:", carro1.get_ano())
     print(f"Valor: R$ {carro1.get_valor():.2f}")  # Valor com 2 casas decimais
     print("- Dados do carro 2:")
-    print("Modelo:", carro2.get_modelo())   # Direto no print
+    print("Modelo:", carro2.get_modelo())   # Direto no print 
     print("Ano:", carro2.get_ano())
     print(f"Valor: R$ {carro2.get_valor():.2f}")
     carro1.set_modelo('HB20')    # Altera (substitui) o valor do objeto
