@@ -15,7 +15,7 @@ quantidade mínima (qdo. a empresa precisa realizar uma nova compra do produto)
 3- No main, crie (instancie) o primeiro objeto da classe e passe os dados. Teste
 4- Crie os métodos gets e sets somente dos atributos:
    nome do produto e quantidade em estoque. Teste.
-5- Altere o valor da quantidade em estoque cadastrado para um valor digitado.
+5- Altere o valor da quantidade em estoque cadastrado para um valor digitado. 
    Teste.
 6- Faça pelo menos uma crítica no método set_qtd_estoque.
 7- Teste o método set_qtd_estoque com valor correto e com valor inconsistente
