@@ -25,7 +25,7 @@ if __name__ == '__main__':          # Atalho: mai <tab>
     print('Nome:', conta1.get_titular_nome())
     conta1.extrato_reduzido()
     conta1.extrato_normal()
-    print('conta1.dados_titular():', conta1.dados_titular())
+    print('conta1.dados_titular():', conta1.dados_titular()) 
     print(conta1.get_titular())         # Retorna o endereço
     conta1_titular = conta1.get_titular()
     print(conta1_titular.__dict__)
