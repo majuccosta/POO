@@ -27,7 +27,6 @@ O valor da coordenada y no plano cartesiano.
 
 """
 
-
 # O nome de classe começa com letra maiúscula e as outras letras minúsculas.
 # Nome de classe: primeira letra de cada palavra com letra maiúscula
 # class Point:
