@@ -40,7 +40,7 @@ if __name__ == '__main__':          # Atalho: mai <tab>
     print('Nome:', titular2.get_nome())
     print('Nome completo:', titular2.nome_completo())
     conta2 = Conta('143-6', titular2, 900.00)
-
+    #-----------------------------------------#
     print('- special method or dunder:')
     print(titular1.__class__)           # <class 'conta_agregacao.Titular'>
     print(titular1.__class__.__name__)  # Titular
