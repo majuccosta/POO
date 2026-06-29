@@ -2,7 +2,7 @@ class Cliente(object):                 # class Cliente:
     def __init__(self, cpf, nome=""):  # Construtor com valor default
         self.cpf = cpf
         self.nome = nome
-    def get_cpf(self):
+    def get_cpf(self): 
         return self.cpf
     def set_cpf(self, cpf):
         self.cpf = cpf
