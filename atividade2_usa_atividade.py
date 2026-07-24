@@ -1,4 +1,4 @@
-from Atividade import Relogio
+from atividade import Relogio
 if __name__ == '__main__':
     relogio1 = Relogio('Rolex', 15000, 2021)
     print("Objeto Criado:", relogio1)
